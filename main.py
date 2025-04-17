@@ -31,3 +31,9 @@ for i in articles:
         else:
             date = "Дата не найдена"
         print(f"{date} – {title} – {link}")
+
+
+
+
+
+
